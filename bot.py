@@ -60,7 +60,7 @@ async def _(event):
 
 print("Bot has started.")
 print("----------------------------------------------")
-print("                @BeastX_Bots                  ")
+print("                @trxexpertt                  ")
 print("----------------------------------------------")
 
 beast.run_until_disconnected()
